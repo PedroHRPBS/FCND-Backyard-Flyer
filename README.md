@@ -211,5 +211,9 @@ def global_to_local(global_position, global_home):
 
 * Filled in backyard_flyer.py
 
+## My implementation
 
+In this project, besides accomplishing the required, I:
+ - Implemented a smoother transition
+ - Implemented a circular waypoint deadband
 
